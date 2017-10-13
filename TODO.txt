@@ -1,2 +1,4 @@
 Add #defines for XLL_DOUBLE12/X
 What to do with _T?
+Instruments should be constructed with a settlement interval (T+2 ~ 2 days)
+The get 'fix'ed with a valuation date and market quote for that date.
